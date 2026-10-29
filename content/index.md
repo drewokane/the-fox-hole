@@ -1,5 +1,5 @@
 ---
-title: Welcome to the fox hole!
+title: Welcome to The Fox Hole!
 ---
 
 # Music stuff
